@@ -13,3 +13,12 @@ outputs/
 data/private/
 
 .DS_Store
+
+# Dependencies and generated files
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.venv/
+__pycache__/
+.env
