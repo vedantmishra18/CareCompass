@@ -1,0 +1,22 @@
+services:
+  carecompass:
+    build: .
+    ports:
+      - "${PORT:-8000}:8000"
+    environment:
+      PORT: "8000"
+      DB_PATH: /app/outputs/carecompass.db
+      MODEL_DIR: /app/models
+      SESSION_TTL_HOURS: "${SESSION_TTL_HOURS:-12}"
+      ALLOWED_ORIGINS: "${ALLOWED_ORIGINS:-http://localhost:5173,http://localhost:8000}"
+    volumes:
+      - carecompass-data:/app/outputs
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3)"]
+      interval: 30s
+      timeout: 5s
+      start_period: 15s
+      retries: 3
+
+volumes:
+  carecompass-data:

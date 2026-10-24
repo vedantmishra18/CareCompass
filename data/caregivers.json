@@ -1,0 +1,169 @@
+[
+  {
+    "id": "CG_001",
+    "name": "Asha Rao",
+    "role": "nurse_home_visit",
+    "skills": [
+      "wound",
+      "general"
+    ],
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "lat": 28.547,
+    "lng": 77.275,
+    "rating": 4.8,
+    "slot_offsets_hours": [
+      2,
+      5,
+      26
+    ]
+  },
+  {
+    "id": "CG_002",
+    "name": "Kabir Das",
+    "role": "paramedic_home_visit",
+    "skills": [
+      "fever",
+      "cough",
+      "vitals",
+      "general"
+    ],
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "lat": 28.542,
+    "lng": 77.269,
+    "rating": 4.6,
+    "slot_offsets_hours": [
+      1,
+      4,
+      25
+    ]
+  },
+  {
+    "id": "CG_003",
+    "name": "Meera Sen",
+    "role": "gp_teleconsult",
+    "skills": [
+      "general"
+    ],
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "lat": 28.545,
+    "lng": 77.274,
+    "rating": 4.9,
+    "slot_offsets_hours": [
+      1,
+      3,
+      24
+    ]
+  },
+  {
+    "id": "CG_004",
+    "name": "Ishan Shah",
+    "role": "specialist_consult",
+    "skills": [
+      "specialist",
+      "general"
+    ],
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "lat": 28.552,
+    "lng": 77.281,
+    "rating": 4.7,
+    "slot_offsets_hours": [
+      5,
+      27,
+      49
+    ]
+  },
+  {
+    "id": "CG_005",
+    "name": "Tara Roy",
+    "role": "nurse_home_visit",
+    "skills": [
+      "wound",
+      "general"
+    ],
+    "languages": [
+      "en"
+    ],
+    "lat": 28.55,
+    "lng": 77.28,
+    "rating": 4.9,
+    "slot_offsets_hours": [
+      3,
+      6,
+      30
+    ]
+  },
+  {
+    "id": "CG_006",
+    "name": "Dev Kumar",
+    "role": "paramedic_home_visit",
+    "skills": [
+      "vitals",
+      "general"
+    ],
+    "languages": [
+      "en"
+    ],
+    "lat": 28.543,
+    "lng": 77.273,
+    "rating": 4.9,
+    "slot_offsets_hours": [
+      2,
+      5,
+      26
+    ]
+  },
+  {
+    "id": "CG_007",
+    "name": "Sana Ali",
+    "role": "paramedic_home_visit",
+    "skills": [
+      "fever",
+      "cough",
+      "vitals",
+      "general"
+    ],
+    "languages": [
+      "hi"
+    ],
+    "lat": 28.56,
+    "lng": 77.289,
+    "rating": 4.5,
+    "slot_offsets_hours": [
+      3,
+      7,
+      29
+    ]
+  },
+  {
+    "id": "CG_008",
+    "name": "Ravi Nair",
+    "role": "nurse_home_visit",
+    "skills": [
+      "general"
+    ],
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "lat": 28.54,
+    "lng": 77.27,
+    "rating": 5.0,
+    "slot_offsets_hours": [
+      1,
+      4,
+      24
+    ]
+  }
+]

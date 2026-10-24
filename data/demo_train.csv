@@ -1,0 +1,109 @@
+case_id,group_id,user_input,care_type,urgency,safety,age
+nurse_home_visit-same_day-0-0,nurse_home_visit-same_day-0,Need a nurse for wound dressing,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-0-1,nurse_home_visit-same_day-0,घाव की पट्टी के लिए नर्स चाहिए,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-0-2,nurse_home_visit-same_day-0,Patti change karne ke liye nurse chahiye,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-1-0,nurse_home_visit-same_day-1,Help changing surgical dressing,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-1-1,nurse_home_visit-same_day-1,ऑपरेशन की पट्टी बदलवानी है,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-1-2,nurse_home_visit-same_day-1,Surgery ki dressing badalni hai,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-2-0,nurse_home_visit-same_day-2,A home nurse for an existing wound,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-2-1,nurse_home_visit-same_day-2,पुराने घाव की देखभाल के लिए नर्स,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-2-2,nurse_home_visit-same_day-2,Ghar par wound care nurse chahiye,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-3-0,nurse_home_visit-same_day-3,Dressing visit requested by family,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-3-1,nurse_home_visit-same_day-3,घर पर पट्टी करने की जरूरत है,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-3-2,nurse_home_visit-same_day-3,Family ko dressing visit chahiye,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-4-0,nurse_home_visit-same_day-4,Wound care and dressing appointment,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-4-1,nurse_home_visit-same_day-4,घाव की सफाई और पट्टी की बुकिंग,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-4-2,nurse_home_visit-same_day-4,Wound dressing appointment book karna hai,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-5-0,nurse_home_visit-same_day-5,Nursing help to replace a dressing,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-5-1,nurse_home_visit-same_day-5,पट्टी बदलने के लिए सहायता,nurse_home_visit,same_day,no,60
+nurse_home_visit-same_day-5-2,nurse_home_visit-same_day-5,Patti replace karne ke liye nursing help,nurse_home_visit,same_day,no,60
+paramedic_home_visit-same_day-0-0,paramedic_home_visit-same_day-0,Fever and cough for two days,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-0-1,paramedic_home_visit-same_day-0,दो दिन से बुखार और खांसी है,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-0-2,paramedic_home_visit-same_day-0,Do din se bukhar aur khansi hai,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-1-0,paramedic_home_visit-same_day-1,Father has a fever since yesterday,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-1-1,paramedic_home_visit-same_day-1,पापा को कल से बुखार है,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-1-2,paramedic_home_visit-same_day-1,Papa ko kal se bukhar hai,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-2-0,paramedic_home_visit-same_day-2,A home check for fever,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-2-1,paramedic_home_visit-same_day-2,बुखार के लिए घर पर जांच चाहिए,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-2-2,paramedic_home_visit-same_day-2,Bukhar ke liye home check chahiye,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-3-0,paramedic_home_visit-same_day-3,Temperature and fever assessment at home,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-3-1,paramedic_home_visit-same_day-3,बुखार की घर पर जांच,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-3-2,paramedic_home_visit-same_day-3,Ghar pe fever check karna hai,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-4-0,paramedic_home_visit-same_day-4,Mother is asking for fever home visit,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-4-1,paramedic_home_visit-same_day-4,मां को बुखार है और घर पर जांच चाहिए,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-4-2,paramedic_home_visit-same_day-4,Mummy ko bukhar hai home visit chahiye,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-5-0,paramedic_home_visit-same_day-5,Fever started this morning,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-5-1,paramedic_home_visit-same_day-5,आज सुबह से बुखार शुरू हुआ,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-same_day-5-2,paramedic_home_visit-same_day-5,Aaj subah se fever shuru hua,paramedic_home_visit,same_day,no,60
+paramedic_home_visit-routine-0-0,paramedic_home_visit-routine-0,Need a blood pressure check at home,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-0-1,paramedic_home_visit-routine-0,घर पर बीपी जांच चाहिए,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-0-2,paramedic_home_visit-routine-0,Ghar par bp check chahiye,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-1-0,paramedic_home_visit-routine-1,Routine vitals visit at home,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-1-1,paramedic_home_visit-routine-1,नियमित जांच और बीपी जांच,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-1-2,paramedic_home_visit-routine-1,Routine vitals ke liye ghar par visit,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-2-0,paramedic_home_visit-routine-2,Arrange a bp check visit,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-2-1,paramedic_home_visit-routine-2,बीपी जांच की बुकिंग करनी है,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-2-2,paramedic_home_visit-routine-2,BP check visit arrange karo,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-3-0,paramedic_home_visit-routine-3,Home vitals appointment,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-3-1,paramedic_home_visit-routine-3,घर पर नियमित जांच की जरूरत,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-3-2,paramedic_home_visit-routine-3,Home vitals appointment chahiye,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-4-0,paramedic_home_visit-routine-4,Blood pressure check for my father,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-4-1,paramedic_home_visit-routine-4,पापा की बीपी जांच करवानी है,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-4-2,paramedic_home_visit-routine-4,Papa ka blood pressure check karwana hai,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-5-0,paramedic_home_visit-routine-5,Please book a routine bp check,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-5-1,paramedic_home_visit-routine-5,कृपया नियमित बीपी जांच बुक करें,paramedic_home_visit,routine,no,60
+paramedic_home_visit-routine-5-2,paramedic_home_visit-routine-5,Routine bp check please book karo,paramedic_home_visit,routine,no,60
+gp_teleconsult-same_day-0-0,gp_teleconsult-same_day-0,Need a doctor consultation by phone,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-0-1,gp_teleconsult-same_day-0,फोन पर डॉक्टर से बात करनी है,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-0-2,gp_teleconsult-same_day-0,Phone par doctor se baat karni hai,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-1-0,gp_teleconsult-same_day-1,Please arrange a teleconsult,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-1-1,gp_teleconsult-same_day-1,डॉक्टर से ऑनलाइन बात करनी है,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-1-2,gp_teleconsult-same_day-1,Online teleconsult chahiye,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-2-0,gp_teleconsult-same_day-2,Want a general doctor consultation,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-2-1,gp_teleconsult-same_day-2,सामान्य डॉक्टर से बात करनी है,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-2-2,gp_teleconsult-same_day-2,General doctor consultation chahiye,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-3-0,gp_teleconsult-same_day-3,Need to discuss my symptoms with a doctor,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-3-1,gp_teleconsult-same_day-3,डॉक्टर से लक्षणों पर बात करनी है,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-3-2,gp_teleconsult-same_day-3,Doctor se baat karni hai symptoms par,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-4-0,gp_teleconsult-same_day-4,Book a doctor call today,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-4-1,gp_teleconsult-same_day-4,आज डॉक्टर से बात करने की बुकिंग,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-4-2,gp_teleconsult-same_day-4,Aaj doctor call book karna hai,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-5-0,gp_teleconsult-same_day-5,Cough and need a doctor consultation,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-5-1,gp_teleconsult-same_day-5,खांसी है डॉक्टर से बात करनी है,gp_teleconsult,same_day,no,60
+gp_teleconsult-same_day-5-2,gp_teleconsult-same_day-5,Khansi hai doctor consultation chahiye,gp_teleconsult,same_day,no,60
+specialist_consult-routine-0-0,specialist_consult-routine-0,Need specialist follow up,specialist_consult,routine,no,60
+specialist_consult-routine-0-1,specialist_consult-routine-0,विशेषज्ञ से फॉलो अप चाहिए,specialist_consult,routine,no,60
+specialist_consult-routine-0-2,specialist_consult-routine-0,Specialist follow-up chahiye,specialist_consult,routine,no,60
+specialist_consult-routine-1-0,specialist_consult-routine-1,A scheduled cardiologist follow up,specialist_consult,routine,no,60
+specialist_consult-routine-1-1,specialist_consult-routine-1,विशेषज्ञ से फॉलो अप की बुकिंग,specialist_consult,routine,no,60
+specialist_consult-routine-1-2,specialist_consult-routine-1,Cardiologist follow up book karna hai,specialist_consult,routine,no,60
+specialist_consult-routine-2-0,specialist_consult-routine-2,Arrange specialist follow-up consultation,specialist_consult,routine,no,60
+specialist_consult-routine-2-1,specialist_consult-routine-2,विशेषज्ञ से फॉलो अप करवाना है,specialist_consult,routine,no,60
+specialist_consult-routine-2-2,specialist_consult-routine-2,Specialist follow up arrange karo,specialist_consult,routine,no,60
+specialist_consult-routine-3-0,specialist_consult-routine-3,My existing specialist follow up is due,specialist_consult,routine,no,60
+specialist_consult-routine-3-1,specialist_consult-routine-3,विशेषज्ञ से फॉलो अप का समय है,specialist_consult,routine,no,60
+specialist_consult-routine-3-2,specialist_consult-routine-3,Mera specialist follow-up due hai,specialist_consult,routine,no,60
+specialist_consult-routine-4-0,specialist_consult-routine-4,Book a specialist follow up appointment,specialist_consult,routine,no,60
+specialist_consult-routine-4-1,specialist_consult-routine-4,विशेषज्ञ से फॉलो अप की जरूरत,specialist_consult,routine,no,60
+specialist_consult-routine-4-2,specialist_consult-routine-4,Specialist follow up appointment book karo,specialist_consult,routine,no,60
+specialist_consult-routine-5-0,specialist_consult-routine-5,Help arranging specialist follow-up,specialist_consult,routine,no,60
+specialist_consult-routine-5-1,specialist_consult-routine-5,विशेषज्ञ से फॉलो अप में मदद चाहिए,specialist_consult,routine,no,60
+specialist_consult-routine-5-2,specialist_consult-routine-5,Specialist follow-up mein help chahiye,specialist_consult,routine,no,60
+emergency_referral-immediate-0-0,emergency_referral-immediate-0,Severe difficulty breathing,emergency_referral,immediate,,60
+emergency_referral-immediate-0-1,emergency_referral-immediate-0,सांस लेने में बहुत दिक्कत है,emergency_referral,immediate,,60
+emergency_referral-immediate-0-2,emergency_referral-immediate-0,Saans nahi aa rahi,emergency_referral,immediate,,60
+emergency_referral-immediate-1-0,emergency_referral-immediate-1,Sudden chest pain,emergency_referral,immediate,,60
+emergency_referral-immediate-1-1,emergency_referral-immediate-1,सीने में दर्द है,emergency_referral,immediate,,60
+emergency_referral-immediate-1-2,emergency_referral-immediate-1,Seene mein dard hai,emergency_referral,immediate,,60
+emergency_referral-immediate-2-0,emergency_referral-immediate-2,Patient is unconscious,emergency_referral,immediate,,60
+emergency_referral-immediate-2-1,emergency_referral-immediate-2,मरीज बेहोश है,emergency_referral,immediate,,60
+emergency_referral-immediate-2-2,emergency_referral-immediate-2,Patient behosh hai,emergency_referral,immediate,,60
+emergency_referral-immediate-3-0,emergency_referral-immediate-3,Uncontrolled bleeding,emergency_referral,immediate,,60
+emergency_referral-immediate-3-1,emergency_referral-immediate-3,खून नहीं रुक रहा,emergency_referral,immediate,,60
+emergency_referral-immediate-3-2,emergency_referral-immediate-3,Khoon nahi ruk raha,emergency_referral,immediate,,60
+emergency_referral-immediate-4-0,emergency_referral-immediate-4,Sudden slurred speech,emergency_referral,immediate,,60
+emergency_referral-immediate-4-1,emergency_referral-immediate-4,अचानक बोलने में दिक्कत,emergency_referral,immediate,,60
+emergency_referral-immediate-4-2,emergency_referral-immediate-4,Face drooping suddenly,emergency_referral,immediate,,60
+emergency_referral-immediate-5-0,emergency_referral-immediate-5,Blue lips and cannot breathe,emergency_referral,immediate,,60
+emergency_referral-immediate-5-1,emergency_referral-immediate-5,नीले होंठ और सांस नहीं आ रही,emergency_referral,immediate,,60
+emergency_referral-immediate-5-2,emergency_referral-immediate-5,Cannot breathe and blue lips,emergency_referral,immediate,,60
